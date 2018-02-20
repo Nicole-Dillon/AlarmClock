@@ -8,4 +8,4 @@
 
 *Identify the top-level functional requirement for the clock, and model it with a use case diagram.  (Use case description will come later.  Only create the use case diagram now.)*
 
-![alt text](https://github.com/Nicole-Dllon/AlarmClock/AlarmUseCase.png "Use case diagram")
+[![](https://github.com/Nicole-Dillon/AlarmClock/blob/master/AlarmUseCase.png)]()
